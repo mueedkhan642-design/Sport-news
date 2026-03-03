@@ -25,7 +25,8 @@ html {
 }
 
 @font-face {
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
+
 
     src: local('Sequel Regular'), url('Sequel_Demo.woff') format('woff');
 }
@@ -183,7 +184,7 @@ html {
 
 .text-overlay h1 {
     font-size: 80px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     line-height: 0.85;
     color: rgba(38, 38, 38, 1);
     margin: 0;
@@ -808,7 +809,7 @@ html {
     border-radius: 6px;
 
     font-size: 37px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     height: 116px;
     text-align: center;
     align-items: center;
@@ -941,7 +942,7 @@ html {
 
 .main-container .box-1 .card .card-text h4 {
     color: rgba(38, 38, 38, 1);
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     font-size: 18px;
 
 }
@@ -954,7 +955,7 @@ html {
 
 .main-container .box-1 h2 {
     font-size: 28px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
 }
 
 .box-2 button {
@@ -975,7 +976,7 @@ html {
 
 .box-2 .text h3 {
     font-size: 32px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
 
     color: rgba(255, 255, 255, 1);
 }
@@ -1186,7 +1187,7 @@ html {
 
 .carousel-card .hero-caro .content h1 {
     color: rgba(249, 250, 252, 1);
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     font-size: 36px;
     font-weight: 900;
     text-transform: uppercase;
@@ -1243,6 +1244,8 @@ html {
     border-radius: 50%;
     align-items: center;
     justify-content: center;
+    font-family: 'Sequel Sans', sans-serif;
+
 }
 
 #last {
@@ -1331,7 +1334,7 @@ html {
 }
 
 .recent-news .recent-left h5 {
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     font-size: 28px;
     color: rgba(38, 38, 38, 1);
     margin-bottom: 15px;
@@ -1373,7 +1376,7 @@ html {
 
 .recent-news .recent-left .recent-left-content .kungfu-main .kungfu-text h4 {
     font-size: 16px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     color: rgba(235, 238, 243, 1);
     padding-left: 12px;
 }
@@ -1408,7 +1411,7 @@ html {
 
 .recent-news .recent-left .recent-left-content .kungfu-profiles .kungu-users .kungu-users-1 h5 {
     color: #262626;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     font-size: 16px;
     line-height: 20px;
     margin-bottom: 0px;
@@ -1449,7 +1452,7 @@ html {
 .clubs-ranking-right h5 {
     font-size: 28px;
     margin-bottom: 15px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
 }
 
 #player-score-board table {
@@ -1459,7 +1462,7 @@ html {
 
 thead tr th {
     font-size: 16px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
     font-weight: 800;
     padding: 10px;
     color: #333;
@@ -1486,6 +1489,8 @@ tbody tr .team-names {
     gap: 10px;
     text-align: left;
     padding-left: 20px;
+    font-family: 'Sequel Sans', sans-serif;
+
 }
 
 .rank-num {
@@ -1749,7 +1754,7 @@ tbody tr .team-names {
 .user-info .article-heading {
     color: #262626;
     font-size: 20px;
-    font-family: 'Sequel Regular';
+    font-family: 'Sequel Sans', sans-serif;
 }
 
 .user-info .article-desc {
@@ -1914,6 +1919,8 @@ tbody tr .team-names {
     font-weight: 800;
     text-transform: uppercase;
     line-height: 60px;
+        font-family: 'Sequel Sans', sans-serif;
+
 }
 
 .page-footer .page-footer-hero .page-footer-hero-left .input-footer input {
@@ -2054,6 +2061,8 @@ tbody tr .team-names {
     border-radius: 50%;
     align-items: center;
     justify-content: center;
+        font-family: 'Sequel Sans', sans-serif;
+
 }
 
 .page-footer-icon-and-slides .footer {
