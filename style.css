@@ -1470,7 +1470,7 @@ tbody tr td {
     padding: 8px 10px;
     text-align: center;
 
-    font-family: 'Sequel', sans-serif;
+    font-family: 'Sequel Regular';
     font-size: 16px;
 }
 
@@ -1519,7 +1519,7 @@ tbody tr .team-names {
 
     .recent-news .recent-left .recent-left-content .kungfu-profiles .kungu-users .kungu-users-1 h5 {
         color: #262626;
-        font-family: 'Sequel', sans-serif;
+        font-family: 'Sequel Regular';
         font-size: 16px;
         line-height: 17px;
         margin-bottom: 0px;
@@ -1749,7 +1749,7 @@ tbody tr .team-names {
 .user-info .article-heading {
     color: #262626;
     font-size: 20px;
-    font-family: 'Sequel', sans-serif;
+    font-family: 'Sequel Regular';
 }
 
 .user-info .article-desc {
@@ -1910,7 +1910,7 @@ tbody tr .team-names {
     background-clip: text;
     color: transparent;
     -webkit-text-fill-color: transparent;
-    font-family: 'Sequel', sans-serif;
+    font-family: 'Sequel Regular';
     font-weight: 800;
     text-transform: uppercase;
     line-height: 60px;
@@ -2037,7 +2037,7 @@ tbody tr .team-names {
 
 .page-footer-icon-and-slides .footer .pagination {
     font-size: 24px;
-    font-family: 'Sequel Sans', sans-serif;
+    font-family: 'Sequel Regular';
     color: rgba(38, 38, 38, 0.61);
     display: flex;
     cursor: pointer;
