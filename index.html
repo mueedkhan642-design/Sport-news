@@ -25,6 +25,10 @@
 </head>
 
 <body>
+    <div id="preloader">
+        <div class="loader"></div>
+        <p>Loading your experience...</p>
+    </div>
     <section class="sections" id="top-sec">
         <header class="navbar">
             <div class="logo">Sport News</div>
@@ -479,6 +483,17 @@
 
         </div>
     </section>
+    <script>
+        window.addEventListener('load', function () {
+            const preloader = document.getElementById('preloader');
+
+            preloader.style.opacity = '0';
+
+            setTimeout(() => {
+                preloader.style.display = 'none';
+            }, 500); 
+        });
+    </script>
     <script>
 
         const hamburger = document.getElementById('hamburger');
