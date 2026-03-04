@@ -949,7 +949,7 @@ html {
     gap: 20px;
     /* background: rgba(235, 238, 243, 1); */
     justify-content: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .main-container .box-2 {
@@ -1003,6 +1003,7 @@ html {
     font-size: 12px;
     font-family: "DM Sans", sans-serif;
     color: rgba(105, 104, 104, 1);
+    width: 95%;
 }
 
 .main-container .box-1 h2 {
@@ -2678,4 +2679,7 @@ height: 50px;
 .carousel-card .hero-caro .content {
     gap: 20px;
 }
+}
+#second{
+    margin-top: 100px;
 }
